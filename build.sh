@@ -2,4 +2,4 @@
 
 echo "build!"
 
-cat "${TEAMCITY_BUILD_PROPERTIES_FILE}"
+cat "${DEVELOCITY_ACCESS_KEY}"
