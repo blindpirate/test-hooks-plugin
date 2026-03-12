@@ -2,4 +2,4 @@
 
 echo "Pre build!"
 
-echo "$TEST"
+echo "${TEAMCITY_BUILD_PROPERTIES_FILE}"
